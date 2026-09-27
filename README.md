@@ -31,7 +31,7 @@ Once Lebron said,
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,linux,py,react,flutter" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,linux,py,react,nodejs,fastapi" />
 </p>
 
 <p align="center"><sub><sup> NOTE: This is not a serious readme. </sup></sub></p>

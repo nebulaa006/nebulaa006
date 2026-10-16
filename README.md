@@ -10,9 +10,9 @@ Once Lebron said,
  
 - **Formula 1 fan, especially a fan of Charles Leclerc**
 
-- I'm currently working on **My portfolio**
+- I'm currently working on **Educent SSC App**
 
-- I'm currently learning **JavaScript, React, Node.js, Python.** 
+- I'm currently learning **JavaScript, React, Node.js, MongoDB, Mongoose** 
 
 - Reach me at **w0ndered@proton.me** <sub><sup>(you won't reach me anyway)</sup></sub>
 

@@ -3,7 +3,7 @@ Once Lebron said,
 
 **and I wish about it on every move.**
 
-# Hi, I am {username}
+# Hi, I am {user.username}
 ### An unemployed developer with 0 skill and experience
 
 - **Hardcore Linux Glazer**
